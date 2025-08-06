@@ -35,4 +35,4 @@ Building modal popups for better user experience
 
 🚀 Live Preview
 👉 Click here to view PhotoGallery
-https://github.com/yourusername/photogallery
+https://adeife25.github.io/photogallery/
